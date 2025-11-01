@@ -4,5 +4,9 @@ p {
 
 body {
     background-color: beige;
-    
+
+}
+
+div {
+    display: flex;
 }
