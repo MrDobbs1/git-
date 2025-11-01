@@ -1,1 +1,6 @@
-hello world
+This is going to be where i write about what i learned, what im practicing, etc....
+
+daily lesson log:
+
+Nov 1st, 2025: today I practiced creating a remote from scratch and pushing code into that remote.
+i had trouble initially because i was logging "git push -u origin main" instead of Master..noted.
