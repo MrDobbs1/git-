@@ -1,8 +1,6 @@
-const v = "hello";
-const y = "hello world"
-
-
-const person = {
-    name: "chris",
-    age: 28,
+function addNumbers(a, b) {
+const add = a + b;
+return add;
 }
+
+console.log(addNumbers(2, 2));
