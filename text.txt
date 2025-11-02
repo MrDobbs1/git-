@@ -4,3 +4,6 @@ daily lesson log:
 
 Nov 1st, 2025: today I practiced creating a remote from scratch and pushing code into that remote.
 i had trouble initially because i was logging "git push -u origin main" instead of Master..noted.
+
+Nov 2nd: Today i simply added some lines in the js and css files, made a little adding function and merged them both into master, just 
+working on remembering this stuff, anyways thats it.
