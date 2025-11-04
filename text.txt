@@ -7,3 +7,7 @@ i had trouble initially because i was logging "git push -u origin main" instead 
 
 Nov 2nd: Today i simply added some lines in the js and css files, made a little adding function and merged them both into master, just 
 working on remembering this stuff, anyways thats it.
+
+nov 4: i missed yesterday but what i did was work on deploying my password generator and making it open
+on a mobile device which it wasn't doing, i'll get it eventually..i wanna move onto something else 
+though, learning vercel has been cool, now onto the next topic.
