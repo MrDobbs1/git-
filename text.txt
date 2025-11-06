@@ -11,3 +11,5 @@ working on remembering this stuff, anyways thats it.
 nov 4: i missed yesterday but what i did was work on deploying my password generator and making it open
 on a mobile device which it wasn't doing, i'll get it eventually..i wanna move onto something else 
 though, learning vercel has been cool, now onto the next topic.
+
+nov 6, 2:21am: today i worked the majority of the day but i still wanna make a little time to get my fingers to code something....little by little, guys.
