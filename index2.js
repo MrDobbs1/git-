@@ -11,4 +11,4 @@ const sub = a - b;
 return sub;
 }
 
-console.log(minusNumbers(10, 5));
+console.log(minusNumbers(10, 4));
